@@ -3,7 +3,7 @@
 # Hello everybody, I'm Jhon 👋
 ⚡ Desarrollo por hobby y evitar el estres 😄😄
 <div>
-  <a href="https://github.com/ricaun">
+  <a href="https://github.com/JhonMires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonMires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMires&layout=compact&langs_count=8&theme=dark"/>
 </div>
