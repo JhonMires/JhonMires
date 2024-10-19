@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMires&layout=compact&langs_count=8&theme=dark"/>
 </div>
     
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonMires&repo=-JM-Toys-Grid-location)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonMires&repo=JM-TOYS-BROWSER)
 
 <!--
 **JhonMires/JhonMires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
